@@ -1,24 +1,27 @@
 # Hi there 👋 I'm Talha Shafique!
 
-### 🚀 Mobile Development Engineer | Android & Kotlin Specialist
+### 🚀 Mobile Development Engineer | Android, Kotlin & Flutter Specialist
 
-A dedicated and results-driven Software Engineer with **1 year of professional experience** specializing in modern Android development. I am passionate about building high-quality, scalable, and user-centric mobile applications using cutting-edge technologies.
+A dedicated and results-driven Software Engineer with **1 year of professional experience** specializing in modern **Android development and cross-platform mobile development using Flutter**. I am passionate about building high-quality, scalable, and user-centric mobile applications using cutting-edge technologies.
 
 ---
 
 ### 💫 About Me
 
 * **Experience:** 1 Year of professional experience in Software Engineering.
-* **Expertise:** Proficient in **Kotlin**, Android SDK, and both **Jetpack Compose** (Declarative UI) and traditional **XML Layouts**.
-* **Focus:** Building elegant, maintainable, and highly performant Android applications.
+* **Expertise:** Proficient in **Kotlin**, **Android SDK**, **Flutter**, **Dart**, and both **Jetpack Compose** (Declarative UI) and traditional **XML Layouts**.
+* **Focus:** Building elegant, maintainable, and highly performant Android & Cross-Platform mobile applications.
 * **Interests:** Outside of development, I am a sports enthusiast, and I enjoy playing **Cricket** and **Football**.
 
 ---
 
 ### 🔭 Current Focus & Learning
 
-* **Working On:** Developing robust and engaging mobile applications.
-* **Currently Learning:** Exploring advanced state management patterns in Compose and improving my CI/CD pipelines for mobile delivery.
+* **Working On:** Developing robust and engaging mobile applications with Android & Flutter.
+* **Currently Learning:**
+  * Exploring advanced state management patterns in Compose.
+  * Flutter BLoC, Provider & Riverpod patterns.
+  * Improving CI/CD pipelines for mobile delivery.
 
 ---
 
@@ -26,18 +29,19 @@ A dedicated and results-driven Software Engineer with **1 year of professional e
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | Kotlin, Java, SQL, |
+| **Languages** | Kotlin, Java, SQL, Dart|
 | **Android UI** | **Jetpack Compose**, XML Layouts, Material Design |
+| **Flutter** | Flutter SDK, Dart, Widgets, Provider, Riverpod, BLoC, Firebase Integration |
 | **Architecture** | MVVM, Clean Architecture, Dependency Injection (Dagger/Hilt) |
 | **Testing** | Unit Testing, UI Testing |
-| **Databases** | Room, SQLite, Firebase Realtime Database/Firestore, Volley |
+| **Databases** | Room, SQLite, Firebase Realtime Database/Firestore, Volley, Hive |
 | **Version Control** | Git, GitHub |
 
 ---
 
 ### 🤝 Let's Connect
 
-* **Ask Me About:** Jetpack Compose best practices, transitioning from XML to Compose, or anything related to Android development.
+* **Ask Me About:** Jetpack Compose best practices, Flutter state management, transitioning from XML to Compose, or anything related to Android/Flutter development.
 * **How to Reach Me:** **talhashafique583@gmail.com**
 * **Pronouns:** He/Him
 * **🌐 Socials:**
