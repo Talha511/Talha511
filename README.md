@@ -67,6 +67,9 @@ A more detailed look at my development activity and achievements.
 
 ---
 
+## 📄 My Resume
+[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/main/Talha_Shafique_CV_Latest_New.pdf)
+
 ### ✍️ Random Dev Quote
 
 > "The best error message is the one that never shows up."
