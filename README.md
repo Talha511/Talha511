@@ -1,75 +1,102 @@
-# Hi there 👋 I'm Talha Shafique!
+<!-- ===================== HEADER ===================== -->
 
-### 🚀 Mobile Development Engineer | Android, Kotlin & Flutter Specialist
+<h1 align="center">Hi 👋, I'm Talha Shafique</h1>
+<h3 align="center">🚀 Software Engineer | Mobile App Developer (Android • Flutter)</h3>
 
-A dedicated and results-driven Software Engineer with **1 year of professional experience** specializing in modern **Android development and cross-platform mobile development using Flutter**. I am passionate about building high-quality, scalable, and user-centric mobile applications using cutting-edge technologies.
+<p align="center">
+  <a href="https://github.com/Talha511/Talha511/blob/main/Talha_Shafique_CV_Latest_New.pdf">
+    <img src="https://img.shields.io/badge/🚀%20Download%20My%20CV-Professional%20Resume-ff6b6b?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0d1117"/>
+  </a>
+</p>
 
----
-
-### 💫 About Me
-
-* **Experience:** 1 Year of professional experience in Software Engineering.
-* **Expertise:** Proficient in **Kotlin**, **Android SDK**, **Flutter**, **Dart**, and both **Jetpack Compose** (Declarative UI) and traditional **XML Layouts**.
-* **Focus:** Building elegant, maintainable, and highly performant Android & Cross-Platform mobile applications.
-* **Interests:** Outside of development, I am a sports enthusiast, and I enjoy playing **Cricket** and **Football**.
-
----
-
-### 🔭 Current Focus & Learning
-
-* **Working On:** Developing robust and engaging mobile applications with Android & Flutter.
-* **Currently Learning:**
-  * Exploring advanced state management patterns in Compose.
-  * Flutter BLoC, Provider & Riverpod patterns.
-  * Improving CI/CD pipelines for mobile delivery.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Android+Developer;Flutter+Engineer;Jetpack+Compose+Specialist;Clean+Architecture+Enthusiast;Building+Scalable+Mobile+Apps" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## 👨‍💻 About Me
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | Kotlin, Java, SQL, Dart|
-| **Android UI** | **Jetpack Compose**, XML Layouts, Material Design |
-| **Flutter** | Flutter SDK, Dart, Widgets, Provider, Riverpod, BLoC, Firebase Integration |
-| **Architecture** | MVVM, Clean Architecture, Dependency Injection (Dagger/Hilt) |
-| **Testing** | Unit Testing, UI Testing |
-| **Databases** | Room, SQLite, Firebase Realtime Database/Firestore, Volley, Hive |
-| **Version Control** | Git, GitHub |
+- 💼 Software Engineer specializing in **Android & Flutter Development**
+- 📱 Building scalable, high-performance mobile applications
+- 🧠 Strong focus on **Clean Architecture, MVVM & Modern UI**
+- ⚡ Experience with **Jetpack Compose, Flutter, Firebase & Supabase**
+- ⚽ Sports lover — Cricket & Football
 
 ---
 
-### 🤝 Let's Connect
+## 🚀 Current Focus
 
-* **Ask Me About:** Jetpack Compose best practices, Flutter state management, transitioning from XML to Compose, or anything related to Android/Flutter development.
-* **How to Reach Me:** **talhashafique583@gmail.com**
-* **Pronouns:** He/Him
-* **🌐 Socials:**
-    * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-shafique-57a4bb390)
-    * [![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Talhamirxa2)
-    * [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/511930t)
-    * [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/talha_shafiq511/)
-    * [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923035306755)
+- 🔥 Production-level Flutter & Android apps  
+- 🧩 Advanced State Management (BLoC • Riverpod • Provider)  
+- 🏗️ Scalable app architecture & performance optimization  
+- ⚙️ CI/CD & professional mobile deployment  
 
 ---
 
-### 📊 GitHub Stats & Achievements
+## 🛠️ Tech Stack
 
-A more detailed look at my development activity and achievements.
-
-| Primary Stats | Streaks & Contributions |
-| :--- | :--- |
-| [![Talha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Talha511&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/Talha511) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Talha511&theme=radical&hide_border=true)](https://git.io/streak-stats) |
-
-| Top Languages | Achievements |
-| :--- | :--- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talha511&layout=compact&theme=radical&hide_border=true)](https://github.com/Talha511) | [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Talha511&theme=radical&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) |
+<p align="center">
+<img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,androidstudio,firebase,supabase,sqlite,git,github" />
+</p>
 
 ---
 
-## 📄 My Resume
-[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/main/Talha_Shafique_CV_Latest_New.pdf)
+## 🌟 Featured Projects
 
-### ✍️ Random Dev Quote
+<p align="center">
 
-> "The best error message is the one that never shows up."
+| Project   | Description   | Tech   |
+| :--- | :--- | :--- |
+| 🚛 **Trucking Tracker App**  | Real-time Truck tracking & analytics mobile app   | Jetpack Compose (Material 3), Room Database   |
+| 👟 **Sneaker App**  | E-Commerence Shoes buy App with modern UI   | Flutter, Provider   |
+| 📲 **QRUstaad App**  | Bar Code Generate and Scaning Barcodes with clean architecture   | Kotlin, Compose   |
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Talha511&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Talha511&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha511&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Talha511&theme=tokyonight&no-frame=true&no-bg=true&row=1"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/talha-shafique-57a4bb390"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/Talhamirxa2"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://www.facebook.com/511930t"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/talha_shafiq511/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://wa.me/923035306755"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+</p>
+
+---
+
+## ✍️ Developer Mindset
+
+> "First, solve the problem. Then, write clean and scalable code."
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Talha511&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+</p>
