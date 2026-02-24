@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Software Engineer | Mobile App Developer (Android • Flutter)</h3>
 
 <p align="center">
-  <a href="https://github.com/Talha511/Talha511/blob/main/Talha_Shafique_CV_Latest_New.pdf">
+  <a href="https://github.com/Talha511/Talha511/blob/main/Talha_Shafique.pdf">
     <img src="https://img.shields.io/badge/🚀%20Download%20My%20CV-Professional%20Resume-ff6b6b?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0d1117"/>
   </a>
 </p>
