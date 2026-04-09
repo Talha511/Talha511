@@ -5,7 +5,9 @@
 
 <p align="center">
   <a href="https://github.com/Talha511/Talha511/blob/main/Talha_Shafique.pdf">
-    <img src="https://img.shields.io/badge/🚀%20Download%20My%20CV-Professional%20Resume-ff6b6b?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0d1117"/>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Resume Icon" width="80" />
+    <br>
+    <img src="https://img.shields.io/badge/Click_to_View_My_Resume-7B61FF?style=for-the-badge&logo=googledocs&logoColor=white" />
   </a>
 </p>
 
@@ -47,12 +49,11 @@
 
 | 🚀 Project | 📄 Description | 🛠️ Tech | 📌 Status | 🔗 Links |
 |-----------|--------------|---------|----------|---------|
-| 🚛 **Trucking Tracker App** | Real-time truck tracking & analytics mobile app | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Compose](https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=android&logoColor=white) ![Room](https://img.shields.io/badge/RoomDB-FF6B35?style=flat-square) | ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Talha511/trucking-tracker) |
-| 👟 **Sneaker App** | E-commerce shoes app with modern UI/UX | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-6B4FBB?style=flat-square) | ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Talha511/sneaker-app) |
-| 📲 **QRUstaad App** | Barcode generator & scanner with clean architecture | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Compose](https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=android&logoColor=white) | ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Talha511/qrustaad) |
+| <img src="https://img.icons8.com/fluency/48/truck.png" height="16" style="vertical-align:middle;"/> **Trucking Tracker App** | Real-time truck tracking & analytics mobile app | <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" height="18" style="vertical-align:middle;"/> <img src="https://img.icons8.com/fluency/48/android-os.png" height="18" style="vertical-align:middle;"/> <img src="https://img.icons8.com/fluency/48/database.png" height="18" style="vertical-align:middle;"/> | 🟢 Completed | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Talha511/trucking-tracker) |
+| <img src="https://img.icons8.com/fluency/48/boots.png" height="16" style="vertical-align:middle;"/> **Sneaker App** | E-commerce shoes app with modern UI/UX | <img src="https://skillicons.dev/icons?i=flutter,dart" height="18" style="vertical-align:middle;"/> <img src="https://img.icons8.com/fluency/48/settings.png" height="18" style="vertical-align:middle;"/> <img src="https://img.icons8.com/color/48/animation.png" height="18" style="vertical-align:middle;"/> | 🟢 Completed | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Talha511/sneaker-app) |
+| <img src="https://img.icons8.com/fluency/48/qr-code.png" height="16" style="vertical-align:middle;"/> **QRUstaad App** | Barcode generator & scanner with clean architecture | <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" height="18" style="vertical-align:middle;"/> <img src="https://img.icons8.com/fluency/48/qr-code.png" height="18" style="vertical-align:middle;"/> <img src="https://img.icons8.com/fluency/48/barcode.png" height="18" style="vertical-align:middle;"/> | 🟢 Completed | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Talha511/qrustaad) |
 
 </p>
-
 ---
 
 ## 📊 GitHub Analytics
