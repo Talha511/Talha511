@@ -41,16 +41,15 @@
 </p>
 
 ---
-
 ## 🌟 Featured Projects
 
 <p align="center">
 
-| Project   | Description   | Tech   |
-| :--- | :--- | :--- |
-| 🚛 **Trucking Tracker App**  | Real-time Truck tracking & analytics mobile app   | Jetpack Compose (Material 3), Room Database   |
-| 👟 **Sneaker App**  | E-Commerence Shoes buy App with modern UI   | Flutter, Provider   |
-| 📲 **QRUstaad App**  | Bar Code Generate and Scaning Barcodes with clean architecture   | Kotlin, Compose   |
+| 🚀 Project | 📄 Description | 🛠️ Tech | 📌 Status | 🔗 Links |
+|-----------|--------------|---------|----------|---------|
+| 🚛 **Trucking Tracker App** | Real-time truck tracking & analytics mobile app | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Compose](https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=android&logoColor=white) ![Room](https://img.shields.io/badge/RoomDB-FF6B35?style=flat-square) | ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Talha511/trucking-tracker) |
+| 👟 **Sneaker App** | E-commerce shoes app with modern UI/UX | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-6B4FBB?style=flat-square) | ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Talha511/sneaker-app) |
+| 📲 **QRUstaad App** | Barcode generator & scanner with clean architecture | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Compose](https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=android&logoColor=white) | ![Completed](https://img.shields.io/badge/Completed-00C853?style=flat-square) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Talha511/qrustaad) |
 
 </p>
 
@@ -79,15 +78,15 @@
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<div align="center">
+  
+<a href="https://www.linkedin.com/in/talha-shafique-57a4bb390"><img src="https://img.icons8.com/color/48/linkedin.png" height="48"/></a>&nbsp;&nbsp;
+<a href="https://x.com/Talhamirxa2"><img src="https://img.icons8.com/color/48/twitterx.png" height="48"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/talha_shafiq511/"><img src="https://img.icons8.com/color/48/instagram-new.png" height="48"/></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/511930t"><img src="https://img.icons8.com/color/48/facebook-new.png" height="48"/></a>&nbsp;&nbsp;
+<a href="https://wa.me/923035306755"><img src="https://img.icons8.com/color/48/whatsapp.png" height="48"/></a>
 
-<a href="https://www.linkedin.com/in/talha-shafique-57a4bb390"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/Talhamirxa2"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://www.facebook.com/511930t"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/talha_shafiq511/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://wa.me/923035306755"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-</p>
+</div>
 
 ---
 
