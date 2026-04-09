@@ -5,9 +5,9 @@
 
 <p align="center">
   <a href="https://github.com/Talha511/Talha511/blob/main/Talha_Shafique.pdf">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Resume Icon" width="80" />
+    <img src="https://img.icons8.com/fluency/100/resume.png" alt="Resume Icon" width="100" />
     <br>
-    <img src="https://img.shields.io/badge/Click_to_View_My_Resume-7B61FF?style=for-the-badge&logo=googledocs&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?label=&message=Click%20to%20View%20My%20Resume&color=FF4500&style=for-the-badge&logo=hotjar&logoColor=white" height="50" style="border-radius:25px" />
   </a>
 </p>
 
